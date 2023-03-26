@@ -2,7 +2,7 @@
 
 Este é um projeto simples de uma Conta Bancária em Java. A classe Conta possui um construtor que recebe como parâmetros o nome do titular da conta, o nome do banco, a agência e o saldo inicial. A partir desses dados, é gerado um ID para a conta por meio da classe UUID.
 
-Em um projeto real não é indicado utilizar substring de UUID para gerar o ID da conta, pois há a possibilidade de gerar IDs repetidos. Para evitar isso, é necessário utilizar um banco de dados para armazenar os IDs gerados e verificar se o ID gerado já existe no banco de dados. Caso exista, um novo ID deve ser gerado.
+Em um projeto real não é indicado utilizar substring de UUID para gerar o ID da conta, pois há a possibilidade de gerar IDs repetidos. Para evitar isso, é necessário verificar se o ID gerado já existe em uma lista de IDs. Caso exista, é necessário gerar um novo ID. No entanto, para simplificar o projeto, foi utilizado o método substring para gerar o ID da conta.
 
 A classe Conta possui métodos para depositar e sacar valores da conta, além de getters e setters para cada um dos atributos. Além disso, a classe sobrescreve o método toString para exibir os dados da conta formatados.
 
