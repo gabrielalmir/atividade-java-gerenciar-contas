@@ -40,3 +40,6 @@ Este projeto foi desenvolvido por  [Gabriel Almir](https://github.com/momentoalm
 Este projeto está licenciado sob a licença MIT. 
 
 Consulte o arquivo [LICENSE](LICENSE) para obter mais informações.
+
+### Agradecimentos
+Culpa do [Maromo](https://github.com/momentoalmir).
