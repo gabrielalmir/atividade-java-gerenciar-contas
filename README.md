@@ -13,6 +13,7 @@ Para executar o projeto, é necessário ter uma instalação do Java e um ambien
 ## Atividades
 
 Atividade lecionada pelo professor [Marcos Roberto de Moraes](https://github.com/maromo71)
+na [Fatec Itapira - "Dr. Ogari de Castro Pacheco"](https://fatecitapira.edu.br/).
 
 - [x] Criar um repositório no GitHub para o projeto
 - [x] Criar um projeto Java no IntelliJ
