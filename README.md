@@ -42,4 +42,4 @@ Este projeto está licenciado sob a licença MIT.
 Consulte o arquivo [LICENSE](LICENSE) para obter mais informações.
 
 ### Agradecimentos
-Culpa do [Maromo](https://github.com/momentoalmir).
+Culpa do [Maromo](https://github.com/maromo71).
