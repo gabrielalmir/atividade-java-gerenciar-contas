@@ -1,4 +1,4 @@
-# Projeto Gerenciador Simples de Contas Bancárias em Java
+#  Gerenciador Simples de Contas Bancárias em Java
 
 Este é um projeto simples de uma Conta Bancária em Java. A classe Conta possui um construtor que recebe como parâmetros o nome do titular da conta, o nome do banco, a agência e o saldo inicial. A partir desses dados, é gerado um ID para a conta por meio da classe UUID.
 
